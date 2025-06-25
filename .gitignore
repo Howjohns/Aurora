@@ -4,6 +4,11 @@
 /*.xcodeproj
 xcuserdata/
 
+# Swift build directories
+.build/
+Tweak/.build/
+Package.resolved
+
 .theos
 /packages
 .theos/
